@@ -4,6 +4,8 @@
       "one-light-ui"
       "one-light-syntax"
     ]
+  editor:
+    fontSize: 12
   "exception-reporting":
     userId: "c76db39c-0be5-ebd0-36a5-d9c6c61c03f1"
   welcome:
