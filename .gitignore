@@ -4,3 +4,6 @@ dev
 storage
 .node-gyp
 .npm
+# original
+.apm
+packages
