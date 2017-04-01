@@ -33,3 +33,5 @@
 'atom-text-editor':
   'alt-.': 'symbols-view:go-to-declaration'
   'alt-[': 'symbols-view:return-from-declaration'
+  'ctrl-v': 'core:page-down'
+  'alt-v': 'core:page-up'
