@@ -9,6 +9,7 @@
     fontSize: 10
   "exception-reporting":
     userId: "c76db39c-0be5-ebd0-36a5-d9c6c61c03f1"
-  "linter-ui-default": {}
+  "linter-ui-default":
+    showPanel: true
   welcome:
     showOnStartup: false
